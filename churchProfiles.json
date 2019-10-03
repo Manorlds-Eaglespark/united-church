@@ -1,0 +1,51 @@
+ [
+        {
+            "id":1,
+            "name": "Life church",
+            "location": "Kampala",
+            "pastor": "the pastor's name",
+            "service_time": "Sundays 8AM - 12PM",
+            "contact":"443423434234"
+        },
+        {
+            "id":2,
+            "name": "Watoto",
+            "location": "Kampala",
+            "pastor": "the pastor's name",
+            "service_time": "Sunday mornings",
+            "contact":"455555453"
+        },
+        {
+            "id":3,
+            "name": "Bukoto C/U",
+            "location": "Bukoto",
+            "pastor": "the pastor's  name",
+            "service_time": "Sunday mornings",
+            "contact":"2343523432"
+        },
+        {
+            "id":4,
+            "name": "St. Balikudembe",
+            "location": "Down town, Kampala",
+            "pastor": "the pastor's name",
+            "service_time": "Sunday mornings",
+            "contact":"3456434"
+        },
+        {
+            "id":5,
+            "name": "Redeemed Church",
+            "location": "Kalerwe",
+            "pastor": "the pastor's name",
+            "service_time": "Monday mornings",
+            "contact":"2342342342"
+        },
+        {
+            "id":6,
+            "name": "St. Mathias Mulumba",
+            "location": "Kireka",
+            "pastor": "the pastor's name",
+            "service_time": "Sunday mornings",
+            "contact":"4355654343"
+        }
+    ]
+    
